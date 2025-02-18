@@ -7,7 +7,7 @@ set(ANDROID_NATIVE_API_LEVEL 21)  # Set the minimum API level
 
 # Add your source files
 set(SOURCES
-    src/main.cpp
+    NativeLib/main.cpp
     # Add other source files here
 )
 
